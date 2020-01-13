@@ -10,3 +10,16 @@ Includes:
   Angular2-JWT
   Angular 2 Flash Messages
   MEAN Deployment
+
+REST API - Node.js
+Token Generation
+CORS - cross domain call
+Mongoose ODM
+Angular/Angular-CLI
+Angular Router, HTTP Module
+Angular - JWT: used to handle the authentication tokens
+Auth Guard - 
+Angular Flash Message Module
+Complie & Deploy
+
+

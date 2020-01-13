@@ -1,0 +1,20 @@
+{
+   "name": "MEAN app with Authentication",
+   "version": "1.0.0",
+   "description": "MEAN application to use Authentication",
+   "main": "app.js",
+   "scripts": {
+      "start": "node app.js"
+   },
+   "dependencies": {
+      "express": "*",
+      "mongoose": "*",
+      "bcryptjs": "*",
+      "cors": "*",
+      "jsonwebtoken": "*",
+      "body-parser": "*",
+      "passport": "*",
+      "passport-jwt": "*"
+   },
+   "author": "Nishant Kumar"
+}
